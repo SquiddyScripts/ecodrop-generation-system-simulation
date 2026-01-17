@@ -2,6 +2,17 @@
 
 A physics-accurate, time-domain electromechanical simulation of a gravity-driven generator system. The simulation models a falling mass driving a motor/generator through a multi-stage drivetrain (drum → sprocket → gearbox → bevel gears → motor).
 
+## Simulation Results
+
+### Time-Series Results
+![Time-Series Results](figs/FIGURE%201%20TIMESERIESRESULTS.jpg)
+
+### Energy Analysis
+![Energy Analysis](figs/FIGURE_2%20ENERGY%20ANALYSIS.jpg)
+
+### Gearbox Optimization Results
+![Gearbox Optimization](figs/FIGURE%203%20GEARBOX%20OPTIMIZATION%20RESULTS.jpg)
+
 ## System Overview
 
 The simulation models:

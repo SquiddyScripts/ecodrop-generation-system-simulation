@@ -1,0 +1,9 @@
+# Images Directory
+
+Place your images here (PNG, JPG, SVG, etc.) and reference them in README.md using:
+
+![Alt text](images/your-image.png)
+
+Or with a link:
+
+[![Alt text](images/your-image.png)](link-url)
